@@ -1,0 +1,39 @@
+{
+  "name": "@arcsin1/electron-icon-builder",
+  "version": "1.0.1",
+  "description": "An icon generator to generate all the icon files needed for electron packaging",
+  "author": "arcsin1",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 16.0.0"
+  },
+  "main": "index.js",
+  "bin": {
+    "@arcsin1/electron-icon-builder": "index.js"
+  },
+  "keywords": [
+    "electron",
+    "icon",
+    "build",
+    "icns",
+    "png",
+    "ico"
+  ],
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint *.js"
+  },
+  "dependencies": {
+    "args": "^5.0.1",
+    "icon-gen": "^5.0.0",
+    "jimp": "^1.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-prettier": "^10.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "mocha": "^11.0.0",
+    "prettier": "^3.0.0",
+    "rimraf": "^6.0.0"
+  }
+}
