@@ -18,6 +18,11 @@ To use
 @arcsin1/electron-icon-builder --input=/absolute/path/file.png --output=./relative/path/to/folder
 ```
 
+
+```
+npx @arcsin1/electron-icon-builder --input=/absolute/path/file.png --output=./relative/path/to/folder
+```
+
 ## Local usage
 
 Install locally
