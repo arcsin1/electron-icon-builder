@@ -20,6 +20,7 @@ To use
 
 
 ```
+// Highly suggest！ 
 npx @arcsin1/electron-icon-builder --input=/absolute/path/file.png --output=./relative/path/to/folder
 ```
 

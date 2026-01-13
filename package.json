@@ -4,6 +4,11 @@
   "description": "An icon generator to generate all the icon files needed for electron packaging",
   "author": "arcsin1",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:arcsin1/electron-icon-builder.git"
+  },
+  "homepage": "https://github.com/arcsin1/electron-icon-builder#readme",
   "engines": {
     "node": ">= 16.0.0"
   },
