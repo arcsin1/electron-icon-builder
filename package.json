@@ -1,6 +1,6 @@
 {
   "name": "@arcsin1/electron-icon-builder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An icon generator to generate all the icon files needed for electron packaging",
   "author": "arcsin1",
   "license": "MIT",
